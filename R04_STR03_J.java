@@ -1,4 +1,4 @@
-//  STR03-J: Noncompliant Code
+//  STR03-J: Noncompliant Code 
 //   - Do not log unsanitized user input
 
 BigInteger x = new BigInteger("530500452766");

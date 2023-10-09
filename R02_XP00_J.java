@@ -1,4 +1,4 @@
-//  IDS03-J: Noncompliant Code
+//  IDS03-J: Noncompliant Code 
 //   - Do not log ignore values returned by methods
 
 public void deleteFile(){

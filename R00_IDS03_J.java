@@ -1,4 +1,4 @@
-//  IDS03-J: Noncompliant Code
+//  IDS03-J: Noncompliant Code 
 //   - Do not log unsanitized user input
 
 if (loginSuccessful) {
